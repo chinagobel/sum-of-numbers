@@ -7,7 +7,7 @@ int arr[]={1,2,3,4,5};//numbers to add
   
 for(int i=0;i<5;i++){
   sum+=arr[i];
-
+////add new line here
 
 }
 System.out.println(sum);
